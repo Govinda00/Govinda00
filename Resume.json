@@ -1,0 +1,78 @@
+{
+    "basics": {
+        "name": "Aaryan Choudhary",
+        "label": "Student",
+	"picture": "https://avatars.githubusercontent.com/u/76112295?s=400&u=6729c85cd849af3fbfc68b41387e5c0c2e4667de&v=4",
+        "email": "2020kucp1116@iiitkota.ac.in",
+        "phone": "+918923770440",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "Meerut",
+            "postalCode": "250341",
+            "city": "Meerut",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+                {
+                "network": "Github",
+                "username": "Aaryan430",
+                "url": "https://www.github.com/Aaryan430"
+            },
+            {
+                "network": "linkedin",
+                "username": "AARYAN CHOUDHARY",
+                "url": "https://www.linkedin.com/in/aaryan-choudhary-7477b7203/"
+            },
+            {
+                "network": "Instagram",
+                "username": "hawk_aaryan",
+                "url": "https://www.instagram.com/hawk_aaryan/"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Singing"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton",
+		"Cricket",
+		"Football"
+            ]
+        }
+    ],
+    "references": []
+}
