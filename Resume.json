@@ -17,17 +17,17 @@
                 {
                 "network": "Github",
                 "username": "Govinda00",
-                "url": "https://www.github.com/Aaryan430"
+                "url": "https://github.com/Govinda00"
             },
             {
                 "network": "linkedin",
-                "username": "AARYAN CHOUDHARY",
-                "url": "https://www.linkedin.com/in/aaryan-choudhary-7477b7203/"
+                "username": "Govinda Kumar",
+                "url": "https://www.linkedin.com/in/govinda-kumar-75bb2a197/"
             },
             {
                 "network": "Instagram",
-                "username": "hawk_aaryan",
-                "url": "https://www.instagram.com/hawk_aaryan/"
+                "username": "Govinda_____",
+                "url": "https://www.instagram.com/invites/contact/?i=1l0zrfn6tmbhn&utm_content=15vkk8d/"
             }
         ]
     },
@@ -47,13 +47,14 @@
             "keywords": [
                 "HTML",
                 "CSS",
-                "C/C++"
+                "C/C++",
+		    "PHP"
             ]
         }
     ],
     "languages": [
         {
-            "language": "English",
+            "language": "English","HINDI",
             "fluency": "Native speaker"
         }
     ],
@@ -61,16 +62,16 @@
         {
             "name": "Singing",
             "keywords": [
-                "Singing"
+                "Singing",
+		    "Motivator"
             ]
         },
         {
             "name": "Playing",
             "keywords": [
-                "Chess",
-                "Badminton",
+                
 		"Cricket",
-		"Football"
+		
             ]
         }
     ],
