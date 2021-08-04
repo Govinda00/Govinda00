@@ -1,79 +1,71 @@
 {
-    "basics": {
-        "name": "Govinda Kumar",
-        "label": "Student",
-	"picture": "https://avatars.githubusercontent.com/u/87357051?s=400&u=f7e4fd6103df827102c58eb84b41d490c690b608&v=4",
-        "email": "2018kucp1137@iiitkota.ac.in",
-        "phone": "+919525194959",
-        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
-        "location": {
-            "address": "East champaran",
-            "postalCode": "845458",
-            "city": "motihari",
-            "countryCode": " India",
-            "region": "Bihar"
-        },
-        "profiles": [
-                {
-                "network": "Github",
-                "username": "Govinda00",
-                "url": "https://github.com/Govinda00"
-            },
-            {
-                "network": "linkedin",
-                "username": "Govinda Kumar",
-                "url": "https://www.linkedin.com/in/govinda-kumar-75bb2a197/"
-            },
-            {
-                "network": "Instagram",
-                "username": "Govinda_____",
-                "url": "https://www.instagram.com/invites/contact/?i=1l0zrfn6tmbhn&utm_content=15vkk8d/"
-            }
-        ]
-    },
-    "education": [
-        {
-            "institution": "Indian Institute of Information Technology,Kota",
-            "area": "Engineering",
-            "studyType": "Bachelor of Technology",
-            "courses": [
-                "Computer Science & Engineering"
-            ]
-        }
-    ],
-    "skills": [
-        {
-            "level": "Beginner",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "C/C++",
-		    "PHP"
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "English",
-            "fluency": "Native speaker"
-        }
-    ],
-    "interests": [
-        {
-            "name": "Singing",
-            "keywords": [
-                "Singing",
-		    "Motivator"
-            ]
-        },
-        {
-            "name": "Playing",
-            "keywords": [
-                
-		"Cricket"
-		
-            ]
-        }
-    ],
-    "references": []
+	"basics": {
+		"name": "Govinda Kumar",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/87357051?s=400&u=f7e4fd6103df827102c58eb84b41d490c690b608&v=4",
+		"email": "2018kucp1137@iiitkota.ac.in",
+		"phone": "+919525194959",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+		"location": {
+			"address": "East champaran",
+			"postalCode": "845458",
+			"city": "motihari",
+			"countryCode": " India",
+			"region": "Bihar"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "Govinda00",
+				"url": "https://github.com/Govinda00"
+			},
+			{
+				"network": "linkedin",
+				"username": "Govinda Kumar",
+				"url": "https://www.linkedin.com/in/govinda-kumar-75bb2a197/"
+			},
+			{
+				"network": "Instagram",
+				"username": "Govinda_____",
+				"url": "https://www.instagram.com/invites/contact/?i=1l0zrfn6tmbhn&utm_content=15vkk8d/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Beginner",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"C/C++",
+			"PHP"
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Native speaker"
+	}],
+	"interests": [{
+			"name": "Singing",
+			"keywords": [
+				"Singing",
+				"Motivator"
+			]
+		},
+		{
+			"name": "Playing",
+			"keywords": [
+
+				"Cricket"
+
+			]
+		}
+	],
+	"references": []
 }
